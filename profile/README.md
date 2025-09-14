@@ -1,7 +1,6 @@
 # 🧪 Enigmo 2 for Mac — 3D Physics Puzzle Sandbox
 
-![Enigmo 2 Logo](https://static.macupdate.com/products/11444/l/enigmo-2-logo.png?v=1617906262)
-
+![Enigmo 2 Logo](https://static.macupdate.com/products/11444/l/enigmo-2-logo.png
 <div align="center" style="margin:14px 0 18px;">
   <a href="http://enigmo-2.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_GET_ENIGMO_2-royalblue?style=for-the-badge&logo=apachespark&logoColor=white" alt="Get Enigmo 2 for macOS">
@@ -18,7 +17,7 @@ Unlike flat, grid-bound puzzle games, Enigmo 2 embraces full **XYZ space**. You�
 
 ---
 
-![Gameplay Preview](https://static.macupdate.com/screenshots/300895/m/enigmo-2-screenshot.png?v=1617906274)
+![Gameplay Preview](https://static.macupdate.com/screenshots/300895/m/enigmo-2-screenshot.png)
 
 ---
 
@@ -47,7 +46,7 @@ Performance is tuned for modern macOS. On Apple Silicon, the game runs smoothly 
 
 ---
 
-![Puzzle Variety](https://static.macupdate.com/screenshots/300897/m/enigmo-2-screenshot.png?v=1617906285)
+![Puzzle Variety](https://static.macupdate.com/screenshots/300897/m/enigmo-2-screenshot.png)
 
 ---
 
