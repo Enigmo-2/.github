@@ -1,6 +1,5 @@
 # 🧪 Enigmo 2 for Mac — 3D Physics Puzzle Sandbox
 
-![Enigmo 2 Logo](https://static.macupdate.com/products/11444/l/enigmo-2-logo.png
 <div align="center" style="margin:14px 0 18px;">
   <a href="http://enigmo-2.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_GET_ENIGMO_2-royalblue?style=for-the-badge&logo=apachespark&logoColor=white" alt="Get Enigmo 2 for macOS">
@@ -15,9 +14,6 @@
 
 Unlike flat, grid-bound puzzle games, Enigmo 2 embraces full **XYZ space**. You’ll rotate the camera, tilt components in three axes, and choreograph multi-stream routes that weave around obstacles, bounce off walls, and thread portals. Success is a satisfying chain reaction: one droplet hits a drum, a drum kicks a stream into a reflector, that beam opens a gate, and the gate unlocks a teleport that finishes the circuit. It’s part logic, part Rube Goldberg dream.
 
----
-
-![Gameplay Preview](https://static.macupdate.com/screenshots/300895/m/enigmo-2-screenshot.png)
 
 ---
 
@@ -43,10 +39,6 @@ Performance is tuned for modern macOS. On Apple Silicon, the game runs smoothly 
 - 🔁 **Replayability** — Go back for faster times, fewer parts, or bonus pickups.  
 - 🎥 **Clean 3D Camera** — Orbit, pan, and zoom to line up shots and reflections.  
 - ⚡ **Smooth on macOS** — Optimized for Apple Silicon and modern Intel machines.
-
----
-
-![Puzzle Variety](https://static.macupdate.com/screenshots/300897/m/enigmo-2-screenshot.png)
 
 ---
 
