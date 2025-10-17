@@ -1,7 +1,7 @@
 # 🧪 Enigmo 2 for Mac — 3D Physics Puzzle Sandbox
 
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://enigmo-2.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Enigmo">
     <img src="https://img.shields.io/badge/⬇️_GET_ENIGMO_2-royalblue?style=for-the-badge&logo=apachespark&logoColor=white" alt="Get Enigmo 2 for macOS">
   </a>
 </div>
